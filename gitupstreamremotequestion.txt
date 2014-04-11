@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually for in your own words
+git upstream remote allows you to point to the original repository
