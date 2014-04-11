@@ -1,1 +1,1 @@
-Explain what git clone does in your own words
+git clone copies all the files and folders and git setup you need to replicate the files on  github for a repository
